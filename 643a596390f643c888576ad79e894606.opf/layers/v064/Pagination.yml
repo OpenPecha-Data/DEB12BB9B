@@ -315,74 +315,74 @@ annotations:
     reference: ''
     span:
       start: 56618
-      end: 58049
+      end: 58047
     note_ref: 3f675716fa26478daa6e0877a58cdfae
   82ebf4fe9a6c49a8b0de47fe20f2a011:
     imgnum: 367
     reference: ''
     span:
-      start: 58051
-      end: 59427
+      start: 58049
+      end: 59425
     note_ref: 3f675716fa26478daa6e0877a58cdfae
   3b241340a8634bcb9e03f7966463891c:
     imgnum: 368
     reference: ''
     span:
-      start: 59429
-      end: 60809
+      start: 59427
+      end: 60807
     note_ref: 3f675716fa26478daa6e0877a58cdfae
   f06906a2b72745a7a0807f272ed157e1:
     imgnum: 369
     reference: ''
     span:
-      start: 60811
-      end: 62222
+      start: 60809
+      end: 62220
     note_ref: 3f675716fa26478daa6e0877a58cdfae
   34335b8563b2471390a49266d3266d89:
     imgnum: 370
     reference: ''
     span:
-      start: 62224
-      end: 63580
+      start: 62222
+      end: 63578
     note_ref: 3f675716fa26478daa6e0877a58cdfae
   e08cb85c2c2646c881f3489a16bbd003:
     imgnum: 371
     reference: ''
     span:
-      start: 63582
-      end: 64920
+      start: 63580
+      end: 64918
     note_ref: 3f675716fa26478daa6e0877a58cdfae
   ff513b8d104f4bc59b95287865699bed:
     imgnum: 372
     reference: ''
     span:
-      start: 64922
-      end: 65937
+      start: 64920
+      end: 65935
     note_ref: 3f675716fa26478daa6e0877a58cdfae
   1bc7d60f784f4c02a9b93106b49a5195:
     imgnum: 373
     reference: ''
     span:
-      start: 65939
-      end: 67837
+      start: 65937
+      end: 67835
   4722b0c694c946529f22efdd62a6f0df:
     imgnum: 374
     reference: ''
     span:
-      start: 67839
-      end: 70045
+      start: 67837
+      end: 70043
   2739ba031ca742889227a7b28622048d:
     imgnum: 375
     reference: ''
     span:
-      start: 70047
-      end: 74863
+      start: 70045
+      end: 74861
   3f675716fa26478daa6e0877a58cdfae:
     imgnum: 376
     reference: ''
     span:
-      start: 74865
-      end: 75809
+      start: 74863
+      end: 75807
 local_ids:
   5a509c370d804c3cbd31db4355878d32: 200000
   48f9c7894a8f436bae92f800de1b9e08: 200001
